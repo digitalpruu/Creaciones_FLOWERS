@@ -59,8 +59,13 @@
       {
         "name": "Email",
         "description": "floraluzalapematoma@gmail.com",
-        "icon": "/assets/images/email.png",
-        "url":""
+        "icon": "/assets/images/email.png"
+      },
+      {
+        "name": "Facebook",
+        "description": "recreación flower",
+        "icon": "/assets/images/facebook.jpg",
+        "url":"https://www.facebook.com/people/recreaci%C3%B3n-flower/61566264442398/"
       }
     ]
   },
